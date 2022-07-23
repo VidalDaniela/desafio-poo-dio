@@ -5,7 +5,7 @@ Desafio este que tive a honra de co-criar com a plataforma de cursos online DIGI
 💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 🛑 Pré-Requisitos
-
+_____________________________________________________________________________________________________________________________________________________________________
 ✅ Conhecer a sintaxe da Java
 
 ✅ Java JDK 11
@@ -15,14 +15,18 @@ Desafio este que tive a honra de co-criar com a plataforma de cursos online DIGI
 ✅ Git
 
 ✅ Conta no GitHub
-
+_____________________________________________________________________________________________________________________________________________________________________
 👣 Passo-a-Passo
+
 1. Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
 2. Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
 3. As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
 4. Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
 5. E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS
+_____________________________________________________________________________________________________________________________________________________________________
+
 📚 Paradigma de Programação Orientado a Objetos (POO)
+
 A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
 Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.
 São 4 os pilares principais do POO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
@@ -40,7 +44,8 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica é chamada de polimorfismo.
 
 
-‼️ CONCEITOS FUNDAMENTAIS POO ‼️
+                                                          ‼️ CONCEITOS FUNDAMENTAIS POO ‼️
+                                                          
 🔻 DOMÍNIO:
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
 🔻 CLASSE:
@@ -55,8 +60,11 @@ Os métodos representam os estados e ações dos objetos e classes.
 Em POO, objeto é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações). Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados.
 🔻 INSTÂNCIA:
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
+_____________________________________________________________________________________________________________________________________________________________________
+
 
 🧮 Linguagem de Programação vs Paradigma de Linguagem de Programação
+
 ✨ LINGUAGEM DE PROGRAMAÇÃO:
 É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
 Seguem alguns exemplos de como as linguagens de programação podem ser classificadas:
